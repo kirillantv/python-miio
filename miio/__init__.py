@@ -65,6 +65,10 @@ from miio.wifirepeater import WifiRepeater
 from miio.wifispeaker import WifiSpeaker
 from miio.yeelight import Yeelight
 from miio.yeelight_dual_switch import YeelightDualControlModule
+from miio.dreamevacuum import (
+    DreameVacuum,
+    DreameStatus,
+)
 
 from miio.discovery import Discovery
 
